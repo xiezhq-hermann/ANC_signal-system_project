@@ -1,5 +1,5 @@
 # ANC_signal-system_project
-This repository is the software part of ANC-Active Noise Cancellation project, including reports and some materials.
+This repository is the software part of ANC-Active Noise Cancellation project, including reports and some materials. Please refer `Documents/Report.pdf` for more introduction and explaination.
 
 ### Specification
 `fxlms_s.slx` is the main file to execute the noise cancellation where you should modify the parameter of FIR to meet your requirement.
